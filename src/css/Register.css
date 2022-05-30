@@ -1,0 +1,119 @@
+.rectangle-div4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(180deg, #90caff, rgba(144, 202, 255, 0));
+  filter: blur(4px);
+  width: 1440px;
+  height: 781px;
+  mix-blend-mode: normal;
+}
+.home-1-icon1 {
+  position: absolute;
+  top: 69px;
+  left: 600px;
+  width: 238px;
+  height: 238px;
+  object-fit: cover;
+}
+.registration-div {
+  position: absolute;
+  top: 347px;
+  left: 549px;
+  font-size: 65px;
+  color: #fff;
+  display: inline-block;
+}
+.rectangle-button1,
+.rectangle-div5,
+.rectangle-div6,
+.rectangle-div7,
+.rectangle-div8 {
+  position: absolute;
+  top: 633px;
+  left: 386px;
+  border-radius: 12px;
+  background-color: #fff;
+  width: 666px;
+  height: 65px;
+}
+.rectangle-button1,
+.rectangle-div6,
+.rectangle-div7,
+.rectangle-div8 {
+  top: 447px;
+}
+.rectangle-button1,
+.rectangle-div7,
+.rectangle-div8 {
+  top: 534px;
+}
+.rectangle-button1,
+.rectangle-div8 {
+  top: 718px;
+  left: 387px;
+}
+.rectangle-button1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #8bc3f6;
+  top: 826px;
+  left: 509px;
+  width: 420px;
+}
+.name-and-surname,
+.password-div1 {
+  position: absolute;
+  top: 645px;
+  left: 645px;
+  display: inline-block;
+}
+.name-and-surname {
+  top: 546px;
+  left: 568px;
+}
+.email-div1,
+.password-again-div,
+.register-div1 {
+  position: absolute;
+  top: 461px;
+  left: 678px;
+  display: inline-block;
+}
+.password-again-div,
+.register-div1 {
+  top: 730px;
+  left: 598px;
+}
+.register-div1 {
+  top: 838px;
+  left: 658px;
+  color: #000;
+}
+.login-button,
+.register-div {
+  text-align: left;
+  font-size: 35px;
+  font-family: Roboto;
+}
+.login-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 921px;
+  left: 679px;
+  color: #fff;
+  display: inline-block;
+}
+.register-div {
+  position: relative;
+  background-color: #000;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  color: rgba(0, 0, 0, 0.65);
+}

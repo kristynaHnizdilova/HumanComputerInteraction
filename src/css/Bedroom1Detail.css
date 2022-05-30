@@ -1,0 +1,220 @@
+.rectangle-div27 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #90caff;
+  width: 1440px;
+  height: 115px;
+}
+.bedroom-1-div {
+  position: absolute;
+  top: 45px;
+  left: 646px;
+  display: inline-block;
+}
+.group-icon3 {
+  position: absolute;
+  top: 36px;
+  left: 22px;
+  width: 68px;
+  height: 43px;
+}
+.image-3-div1,
+.rectangle-div28 {
+  position: absolute;
+  top: 115px;
+  left: 358px;
+  width: 723px;
+  height: 527px;
+}
+.rectangle-div28 {
+  top: 668px;
+  left: 133px;
+  border-radius: 12px;
+  background-color: #fff;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.25);
+  width: 1173px;
+  height: 317px;
+}
+.doors-div3,
+.lights-div3 {
+  position: absolute;
+  top: 731px;
+  left: 218px;
+  display: inline-block;
+}
+.lights-div3 {
+  top: 809px;
+}
+.music-div3,
+.temperature-div3,
+.tv-div1 {
+  position: absolute;
+  top: 731px;
+  left: 985px;
+  display: inline-block;
+}
+.music-div3,
+.tv-div1 {
+  left: 560px;
+}
+.music-div3 {
+  top: 897px;
+  left: 218px;
+}
+.line-div11 {
+  position: absolute;
+  top: 825px;
+  left: 984px;
+  border-top: 2px solid #000;
+  box-sizing: border-box;
+  width: 262px;
+  height: 2px;
+}
+.ellipse-icon4 {
+  position: absolute;
+  top: 805px;
+  left: 1024px;
+  width: 41px;
+  height: 41px;
+}
+.c-div10,
+.c-div11,
+.c-div9 {
+  position: absolute;
+  font-size: 15px;
+  display: inline-block;
+}
+.c-div9 {
+  top: 817px;
+  left: 1027px;
+  color: #fff;
+}
+.c-div10,
+.c-div11 {
+  top: 858px;
+  left: 980px;
+}
+.c-div11 {
+  top: 855px;
+  left: 1213px;
+}
+.toggle-indeterminate-icon14 {
+  position: absolute;
+  top: 694px;
+  left: 356px;
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+}
+.toggle-indeterminate-icon15,
+.toggle-indeterminate-icon16,
+.toggle-indeterminate-icon17 {
+  position: absolute;
+  top: 774px;
+  left: 356px;
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+}
+.toggle-indeterminate-icon16,
+.toggle-indeterminate-icon17 {
+  top: 862px;
+}
+.toggle-indeterminate-icon17 {
+  top: 694px;
+  left: 682px;
+}
+.main-color-div3 {
+  position: absolute;
+  top: -3px;
+  left: -3px;
+  border-radius: 6px;
+  background-color: #1da1f2;
+  border: 3px solid #fff;
+  box-sizing: border-box;
+  width: 209px;
+  height: 86px;
+}
+.shadow-dark-div3,
+.shadow-light-div3 {
+  position: absolute;
+  top: 69.63px;
+  left: 1.23px;
+  background-color: rgba(0, 0, 0, 0.24);
+  width: 200.54px;
+  height: 8.89px;
+}
+.shadow-light-div3 {
+  top: 1.48px;
+  background-color: rgba(255, 255, 255, 0.64);
+}
+.dark-area-div3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 6px;
+  border: 3px solid #14192a;
+  box-sizing: border-box;
+  width: 203px;
+  height: 80px;
+}
+.back2 {
+  position: absolute;
+  top: 10.37px;
+  left: 3.69px;
+  font-size: 32px;
+  display: flex;
+  font-family: Inter;
+  color: #fff;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 195.62px;
+  height: 59.26px;
+}
+.back-button3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 170px;
+  left: 95px;
+  width: 203px;
+  height: 80px;
+}
+.image-6-icon {
+  position: absolute;
+  top: 201px;
+  left: 482px;
+  width: 476px;
+  height: 355px;
+  object-fit: cover;
+}
+.wardrobe-div1 {
+  position: absolute;
+  top: 812px;
+  left: 515px;
+  display: inline-block;
+}
+.toggle-indeterminate-icon18 {
+  position: absolute;
+  top: 778px;
+  left: 682px;
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+}
+.bedroom-1-detail {
+  position: relative;
+  background-color: #fff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 30px;
+  color: #000;
+  font-family: Roboto;
+}

@@ -1,0 +1,204 @@
+.rectangle-div25 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #90caff;
+  width: 1440px;
+  height: 115px;
+}
+.dressing-room-div {
+  position: absolute;
+  top: 45px;
+  left: 621px;
+  display: inline-block;
+}
+.group-icon2 {
+  position: absolute;
+  top: 36px;
+  left: 22px;
+  width: 68px;
+  height: 43px;
+}
+.image-3-div,
+.rectangle-div26 {
+  position: absolute;
+  top: 115px;
+  left: 358px;
+  width: 723px;
+  height: 527px;
+}
+.rectangle-div26 {
+  top: 668px;
+  left: 133px;
+  border-radius: 12px;
+  background-color: #fff;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.25);
+  width: 1173px;
+  height: 317px;
+}
+.doors-div2,
+.lights-div2 {
+  position: absolute;
+  top: 731px;
+  left: 218px;
+  display: inline-block;
+}
+.lights-div2 {
+  top: 809px;
+}
+.music-div2,
+.temperature-div2,
+.wardrobe-div {
+  position: absolute;
+  top: 731px;
+  left: 985px;
+  display: inline-block;
+}
+.music-div2,
+.wardrobe-div {
+  left: 515px;
+}
+.music-div2 {
+  top: 897px;
+  left: 218px;
+}
+.line-div10 {
+  position: absolute;
+  top: 825px;
+  left: 984px;
+  box-sizing: border-box;
+  width: 262px;
+  height: 2px;
+}
+.ellipse-icon3 {
+  position: absolute;
+  top: 805px;
+  left: 1024px;
+  width: 41px;
+  height: 41px;
+}
+.c-div6,
+.c-div7,
+.c-div8 {
+  position: absolute;
+  font-size: 15px;
+  display: inline-block;
+}
+.c-div6 {
+  top: 817px;
+  left: 1027px;
+  color: #fff;
+}
+.c-div7,
+.c-div8 {
+  top: 858px;
+  left: 980px;
+}
+.c-div8 {
+  top: 855px;
+  left: 1213px;
+}
+.toggle-indeterminate-icon10,
+.toggle-indeterminate-icon11 {
+  position: absolute;
+  top: 694px;
+  left: 356px;
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+}
+.toggle-indeterminate-icon11 {
+  top: 774px;
+}
+.image-5-icon,
+.toggle-indeterminate-icon12,
+.toggle-indeterminate-icon13 {
+  position: absolute;
+  top: 862px;
+  left: 356px;
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+}
+.image-5-icon,
+.toggle-indeterminate-icon13 {
+  top: 694px;
+  left: 682px;
+}
+.image-5-icon {
+  top: 230px;
+  left: 483px;
+  width: 472px;
+  height: 341px;
+}
+.main-color-div2 {
+  position: absolute;
+  top: -3px;
+  left: -3px;
+  border-radius: 6px;
+  background-color: #1da1f2;
+  border: 3px solid #fff;
+  box-sizing: border-box;
+  width: 209px;
+  height: 86px;
+}
+.shadow-dark-div2,
+.shadow-light-div2 {
+  position: absolute;
+  top: 69.63px;
+  left: 1.23px;
+  background-color: rgba(0, 0, 0, 0.24);
+  width: 200.54px;
+  height: 8.89px;
+}
+.shadow-light-div2 {
+  top: 1.48px;
+  background-color: rgba(255, 255, 255, 0.64);
+}
+.dark-area-div2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 6px;
+  border: 3px solid #14192a;
+  box-sizing: border-box;
+  width: 203px;
+  height: 80px;
+}
+.back1 {
+  position: absolute;
+  top: 10.37px;
+  left: 3.69px;
+  font-size: 32px;
+  display: flex;
+  font-family: Inter;
+  color: #fff;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 195.62px;
+  height: 59.26px;
+}
+.back-button2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 170px;
+  left: 95px;
+  width: 203px;
+  height: 80px;
+}
+.dressing-room-detail {
+  position: relative;
+  background-color: #fff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 30px;
+  color: #000;
+  font-family: Roboto;
+}

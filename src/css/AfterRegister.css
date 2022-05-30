@@ -1,0 +1,160 @@
+.rectangle-div9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(180deg, #90caff, rgba(144, 202, 255, 0));
+  filter: blur(4px);
+  width: 1440px;
+  height: 781px;
+  mix-blend-mode: normal;
+}
+.home-1-icon2 {
+  position: absolute;
+  top: 69px;
+  left: 600px;
+  width: 238px;
+  height: 238px;
+  object-fit: cover;
+}
+.registration-div1 {
+  position: absolute;
+  top: 347px;
+  left: 549px;
+  font-size: 65px;
+  color: #fff;
+  display: inline-block;
+}
+.rectangle-div10,
+.rectangle-div11,
+.rectangle-div12,
+.rectangle-div13,
+.rectangle-div14 {
+  position: absolute;
+  top: 633px;
+  left: 386px;
+  border-radius: 12px;
+  background-color: #fff;
+  width: 666px;
+  height: 65px;
+}
+.rectangle-div11,
+.rectangle-div12,
+.rectangle-div13,
+.rectangle-div14 {
+  top: 447px;
+}
+.rectangle-div12,
+.rectangle-div13,
+.rectangle-div14 {
+  top: 534px;
+}
+.rectangle-div13,
+.rectangle-div14 {
+  top: 718px;
+  left: 387px;
+}
+.rectangle-div14 {
+  top: 826px;
+  left: 509px;
+  background-color: #8bc3f6;
+  width: 420px;
+}
+.email-div2,
+.name-and-surname1,
+.password-div2 {
+  position: absolute;
+  top: 645px;
+  left: 645px;
+  display: inline-block;
+}
+.email-div2,
+.name-and-surname1 {
+  top: 546px;
+  left: 568px;
+}
+.email-div2 {
+  top: 461px;
+  left: 678px;
+}
+.login-div1,
+.password-again-div1,
+.register-div2 {
+  position: absolute;
+  top: 730px;
+  left: 598px;
+  display: inline-block;
+}
+.login-div1,
+.register-div2 {
+  top: 838px;
+  left: 658px;
+  color: #000;
+}
+.login-div1 {
+  top: 921px;
+  left: 679px;
+  color: #fff;
+}
+.rectangle-div15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.49);
+  width: 1440px;
+  height: 1024px;
+}
+.rectangle-button2,
+.rectangle-div16 {
+  position: absolute;
+  top: 320px;
+  left: 239px;
+  border-radius: 12px;
+  background-color: #fff;
+  width: 967px;
+  height: 384px;
+}
+.rectangle-button2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #8bc3f6;
+  top: 587px;
+  left: 513px;
+  width: 420px;
+  height: 65px;
+}
+.got-it-div {
+  position: absolute;
+  top: 599px;
+  left: 662px;
+  color: #000;
+  display: inline-block;
+}
+.you-have-been {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.your-flat-plan {
+  margin: 0;
+}
+.you-have-been-successfully-reg {
+  position: absolute;
+  top: 393px;
+  left: 374px;
+  font-size: 40px;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+}
+.after-register-div {
+  position: relative;
+  background-color: #000;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 35px;
+  color: rgba(0, 0, 0, 0.65);
+  font-family: Roboto;
+}

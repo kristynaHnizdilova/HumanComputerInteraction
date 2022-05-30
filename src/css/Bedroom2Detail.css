@@ -1,0 +1,254 @@
+.rectangle-div29 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #90caff;
+  width: 1440px;
+  height: 115px;
+}
+.bedroom-2-div {
+  position: absolute;
+  top: 45px;
+  left: 646px;
+  display: inline-block;
+}
+.group-icon4 {
+  position: absolute;
+  top: 36px;
+  left: 22px;
+  width: 68px;
+  height: 43px;
+}
+.image-3-div2,
+.rectangle-div30 {
+  position: absolute;
+  top: 115px;
+  left: 358px;
+  width: 723px;
+  height: 527px;
+}
+.rectangle-div30 {
+  top: 668px;
+  left: 133px;
+  border-radius: 12px;
+  background-color: #fff;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.25);
+  width: 1173px;
+  height: 317px;
+}
+.doors-div4,
+.lights-div4 {
+  position: absolute;
+  top: 731px;
+  left: 218px;
+  display: inline-block;
+}
+.lights-div4 {
+  top: 809px;
+}
+.music-div4,
+.temperature-div4,
+.tv-div2 {
+  position: absolute;
+  top: 731px;
+  left: 985px;
+  display: inline-block;
+}
+.music-div4,
+.tv-div2 {
+  left: 567px;
+}
+.music-div4 {
+  top: 897px;
+  left: 218px;
+}
+.line-div12 {
+  position: absolute;
+  top: 825px;
+  left: 984px;
+  box-sizing: border-box;
+  width: 262px;
+  height: 2px;
+}
+.ellipse-icon5 {
+  position: absolute;
+  top: 805px;
+  left: 1024px;
+  width: 41px;
+  height: 41px;
+}
+.c-div12,
+.c-div13,
+.c-div14 {
+  position: absolute;
+  font-size: 15px;
+  display: inline-block;
+}
+.c-div12 {
+  top: 817px;
+  left: 1027px;
+  color: #fff;
+}
+.c-div13,
+.c-div14 {
+  top: 858px;
+  left: 980px;
+}
+.c-div14 {
+  top: 855px;
+  left: 1213px;
+}
+.toggle-indeterminate-icon19 {
+  position: absolute;
+  top: 694px;
+  left: 356px;
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+}
+.toggle-indeterminate-icon20,
+.toggle-indeterminate-icon21,
+.toggle-indeterminate-icon22 {
+  position: absolute;
+  top: 774px;
+  left: 356px;
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+}
+.toggle-indeterminate-icon21,
+.toggle-indeterminate-icon22 {
+  top: 862px;
+}
+.toggle-indeterminate-icon22 {
+  top: 694px;
+  left: 745px;
+}
+.main-color-div4 {
+  position: absolute;
+  top: -3px;
+  left: -3px;
+  border-radius: 6px;
+  background-color: #1da1f2;
+  border: 3px solid #fff;
+  box-sizing: border-box;
+  width: 209px;
+  height: 86px;
+}
+.shadow-dark-div4,
+.shadow-light-div4 {
+  position: absolute;
+  top: 69.63px;
+  left: 1.23px;
+  background-color: rgba(0, 0, 0, 0.24);
+  width: 200.54px;
+  height: 8.89px;
+}
+.shadow-light-div4 {
+  top: 1.48px;
+  background-color: rgba(255, 255, 255, 0.64);
+}
+.dark-area-div4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 6px;
+  border: 3px solid #14192a;
+  box-sizing: border-box;
+  width: 203px;
+  height: 80px;
+}
+.back3 {
+  position: absolute;
+  top: 10.37px;
+  left: 3.69px;
+  font-size: 32px;
+  display: flex;
+  font-family: Inter;
+  color: #fff;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 195.62px;
+  height: 59.26px;
+}
+.back-button4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 170px;
+  left: 95px;
+  width: 203px;
+  height: 80px;
+}
+.wardrobe-div2,
+.washing-machine-div {
+  position: absolute;
+  top: 812px;
+  left: 522px;
+  display: inline-block;
+}
+.washing-machine-div {
+  top: 898px;
+  left: 467px;
+}
+.toggle-indeterminate-icon23 {
+  position: absolute;
+  top: 780px;
+  left: 745px;
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+}
+.settings-div {
+  position: absolute;
+  top: 0;
+  left: 13px;
+  font-size: 24px;
+  letter-spacing: 0.02em;
+  line-height: 20px;
+  font-weight: 500;
+  font-family: Roboto;
+  color: #fcfcff;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 114px;
+  height: 56px;
+}
+.old-button-text {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #000;
+  position: absolute;
+  top: 884px;
+  left: 723px;
+  border-radius: 100px;
+  width: 139px;
+  height: 56px;
+  overflow: hidden;
+}
+.untitled-1-1-icon {
+  position: absolute;
+  top: 136px;
+  left: 506px;
+  width: 427px;
+  height: 512px;
+  object-fit: cover;
+}
+.bedroom-2-detail {
+  position: relative;
+  background-color: #fff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 30px;
+  color: #000;
+  font-family: Roboto;
+}
